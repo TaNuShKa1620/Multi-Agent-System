@@ -38,7 +38,6 @@ project/
 
 ## 📦 Installation
 
-```bash
 git clone https://github.com/yourusername/project-bolt.git
 cd project-bolt/project
 npm install
